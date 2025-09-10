@@ -11,6 +11,7 @@
 - Print size: 250mm x 250mm x 250mm.
 - Trident 250 with Legacy style gantry.
 - Stealthburner toolhead, umbilical wire management (no drag chains).
+- KlickyNG for Z tilt and bed mesh.
 
 ## BOM
 
@@ -24,8 +25,14 @@
 - [Foldable Spool holder](https://www.printables.com/model/1233299-tri-direction-foldable-spool-holder)
 - [Sturdy handler](https://www.printables.com/model/793387-voron-24r2trident-sturdy-handler-remix)
 
+> [!TIP]
+> Support my work on the following platforms. Thank you!
+>
+> [![ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/H2H4FT4J7)
+> [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/2nhchiu)
+
 ## Changelog
 
-### 2025/09/10
+### 2025 / 09 / 10
 
 Initial release.
