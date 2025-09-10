@@ -25,6 +25,12 @@
 - [Foldable Spool holder](https://www.printables.com/model/1233299-tri-direction-foldable-spool-holder)
 - [Sturdy handler](https://www.printables.com/model/793387-voron-24r2trident-sturdy-handler-remix)
 
+## Credits
+
+- [Voron Design](https://vorondesign.com/) team for Trident, Legacy, and Stealthburner.
+- [Klicky(NG) Probe](https://github.com/jlas1/Klicky-Probe).
+- [Voron Construct](https://github.com/PrintersForAnts/Voron-Construct) for handy CAD models.
+
 > [!TIP]
 > Support my work on the following platforms. Thank you!
 >
