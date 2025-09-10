@@ -1,0 +1,1 @@
+Get the STLs from here: [https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyNG/STL/KlickyNG_Probe.zip](https://github.com/jlas1/Klicky-Probe/blob/main/Probes/KlickyNG/STL/KlickyNG_Probe.zip).
