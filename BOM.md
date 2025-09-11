@@ -22,7 +22,7 @@ Refer to CAD, Trident and Legacy BOM for the rest.
 | -------------------------------------------- | --- | ---------------------- | --------------------------------------------------- |
 | Linear Rods - D8mm x 320mm                   | 6   |                        | [CNA](https://s.click.aliexpress.com/e/_ooWtr3h)    |
 | Linear Bearings - LM8LUU                     | 6   |                        | [FUSHI](https://s.click.aliexpress.com/e/_onqjz99)  |
-| Integrated Lead Screw/Stepper Motors - 300mm | 3   |                        |                                                     |
+| Integrated Lead Screw/Stepper Motors - 300mm | 3   |                        | [Siboor](https://s.click.aliexpress.com/e/_ombbGBv) |
 | Linear Rail - MGN9H 300mm                    | 3   |                        | [CNA](https://s.click.aliexpress.com/e/_onEsgxV)    |
 | GE5C Spherical Bearing                       | 3   |                        | [FUSHI](https://s.click.aliexpress.com/e/_olhEbNN)  |
 | GT2 20T (6mm wide) Pulley (5mm bore)         | 3   | 1 is for Z endstop     | [POWGE](https://s.click.aliexpress.com/e/_oEvDEoR)  |
