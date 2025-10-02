@@ -30,6 +30,8 @@
 - [Voron Design](https://vorondesign.com/) team for Trident, Legacy, and Stealthburner.
 - [Klicky(NG) Probe](https://github.com/jlas1/Klicky-Probe).
 - [Voron Construct](https://github.com/PrintersForAnts/Voron-Construct) for handy CAD models.
+- [Prusawire](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1) for the belt tensioner design.
+- [ApexClips](https://github.com/ApexArray/ApexClips).
 
 > [!TIP]
 > Support my work on the following platforms. Thank you!
@@ -38,6 +40,14 @@
 > [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/2nhchiu)
 
 ## Changelog
+
+### 2025 / 10 / 02
+
+New belt clip and tensioner design.
+
+- Belt tensioner design inspired by [Prusawire](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1).
+- [ApexClips](https://github.com/ApexArray/ApexClips)
+- Now the front idlers are fixed position.
 
 ### 2025 / 09 / 10
 
