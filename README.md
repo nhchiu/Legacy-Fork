@@ -10,7 +10,7 @@
 
 - Print size: 250mm x 250mm x 250mm.
 - Trident 250 with Legacy style gantry.
-- Stealthburner toolhead, umbilical wire management (no drag chains).
+- [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) or [A4T](https://github.com/Armchair-Heavy-Industries/A4T) toolhead, umbilical wire management (no drag chains).
 - KlickyNG for Z tilt and bed mesh.
 
 ## BOM
