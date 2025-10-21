@@ -41,6 +41,10 @@
 
 ## Changelog
 
+### 2025 / 10 / 21
+
+Use hex nuts instead of heatset inserts to hold the X axis onto XY joints.
+
 ### 2025 / 10 / 02
 
 New belt clip and tensioner design.
