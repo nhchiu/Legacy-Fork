@@ -18,9 +18,9 @@ Refer to CAD, Trident and Legacy BOM for the rest.
 
 ## Motion
 
-| Component                                    | Qty | Notes                  | Source                                              |
-| -------------------------------------------- | --- | ---------------------- | --------------------------------------------------- |
-| Linear Rods - D8mm x 320mm                   | 6   |                        | [CNA*](https://s.click.aliexpress.com/e/_ooWtr3h)    |
+| Component                                    | Qty | Notes                  | Source                                               |
+| -------------------------------------------- | --- | ---------------------- | ---------------------------------------------------- |
+| Linear Rods - D8mm x 320mm                   | 6   |                        | [CNA*](https://s.click.aliexpress.com/e/_c4bX2dSv)   |
 | Linear Bearings - LM8LUU                     | 6   |                        | [FUSHI*](https://s.click.aliexpress.com/e/_onqjz99)  |
 | Integrated Lead Screw/Stepper Motors - 300mm | 3   |                        | [Siboor*](https://s.click.aliexpress.com/e/_ombbGBv) |
 | Linear Rail - MGN9H 300mm                    | 3   |                        | [CNA*](https://s.click.aliexpress.com/e/_onEsgxV)    |
