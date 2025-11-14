@@ -14,7 +14,7 @@ Refer to CAD, Trident and Legacy BOM for the rest.
 | -------------------- | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Frame kit            | 1   | [West3D](https://west3d.com/products/ldo-trident-frame-kit-multiple-colors) or [KB3D](https://kb-3d.com/store/frame-enclosure/471-8401-ldo-motors-frame-kit-for-voron-trident-multiple-types-1642791073246.html) |
 | Panels               | 1   |                                                                                                                                                                                                                  |
-| Build plate + Heater | 1   | [West3D (LDO)](https://west3d.com/products/voron-trident-aluminum-build-plate-complete-kit-by-ldo-systems-heater-magnet-and-fuse-pre-applied-to-plate)                                                           |
+| Build plate + Heater | 1   | [West3D (LDO)](https://west3d.com/products/voron-v2-4-aluminum-build-plate-complete-kit-by-ldo-systems-heater-magnet-and-fuse-pre-applied-to-plate)                                                           |
 
 ## Motion
 
