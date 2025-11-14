@@ -13,6 +13,20 @@
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner) or [A4T](https://github.com/Armchair-Heavy-Industries/A4T) toolhead, umbilical wire management (no drag chains).
 - KlickyNG for Z tilt and bed mesh.
 
+This printer is not design for everyone.
+It's just a slightly more "modernized" version of Legacy (also slightly larger print area).
+If you're looking for a good reliable printer, build a Trident.
+
+Here's a simple comparison to help you decide:
+
+|                      | Legacy            | Legacy Fork            | Trident               |
+| -------------------- | ----------------- | ---------------------- | --------------------- |
+| Frame Size (W\*D\*H) | 410 \* 410 \* 410 | 410 \* 410 \* 500      | 410 \* 410 \* 500     |
+| Print Area (X\*Y\*Z) | 230 \* 230 \* 240 | **250 \* 250 \* 250**  | **250 \* 250 \* 250** |
+| Enclosure            | No                | **Yes**                | **Yes**               |
+| Expected Speed/Accel | Lower             | Lower                  | **Higher**            |
+| Motion system        | 10 rods           | 6 rods(XY), 3 rails(z) | 6 rails               |
+
 ## BOM
 
 [BOM.md](./BOM.md)
