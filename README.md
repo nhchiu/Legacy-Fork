@@ -55,6 +55,20 @@ Here's a simple comparison to help you decide:
 
 ## Changelog
 
+### 2026 / 08 /20
+
+Update CAD and STLs for new revision:
+
+- Port Trident R2 upgrades:
+  - Uses Trident R2 Z assembly.
+  - New AB drive mounts:
+    - Shorter belt path. (requires **4 more F695 bearings**)
+    - Steppers mount with all 4 screws.
+    - Cutouts for wires to pass through.
+    - Requires **3mm foam on the rear panel**.
+- Clamping mechanism on X rod holders.
+- Shifted the print area towards the front so it uses stock Trident Z carriages / bed mounts.
+
 ### 2025 / 10 / 21
 
 Use hex nuts instead of heatset inserts to hold the X axis onto XY joints.
