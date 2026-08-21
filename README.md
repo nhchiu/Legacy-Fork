@@ -55,9 +55,7 @@ Here's a simple comparison to help you decide:
 
 ## Changelog
 
-### 2026 / 08 /20
-
-Update CAD and STLs for new revision:
+### 2026 / 08 / 21
 
 - Port Trident R2 upgrades:
   - Uses Trident R2 Z assembly.
