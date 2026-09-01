@@ -55,6 +55,15 @@ Here's a simple comparison to help you decide:
 
 ## Changelog
 
+### 2026 / 09 / 01
+
+- AB drive mounts
+  - Shift the assembly 2mm towards the front to fit rear panel with 1mm foam. *(untested)*
+- X carriage
+  - Added a variant for inductive probe (OMRON TL-Q5MC2). *(untested)*
+- XY joints
+  - Adjusted to fit the other changes.
+
 ### 2026 / 08 / 21
 
 - Port Trident R2 upgrades:
@@ -63,7 +72,7 @@ Here's a simple comparison to help you decide:
     - Shorter belt path. (requires **4 more F695 bearings**)
     - Steppers mount with all 4 screws.
     - Cutouts for wires to pass through.
-    - Requires **3mm foam on the rear panel**.
+    - ~Requires **3mm foam on the rear panel**.~
 - Clamping mechanism on X rod holders.
 - Shifted the print area towards the front so it uses stock Trident Z carriages / bed mounts.
 
