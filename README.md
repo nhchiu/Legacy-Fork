@@ -55,6 +55,15 @@ Here's a simple comparison to help you decide:
 
 ## Changelog
 
+### 2026 / 11 / 17
+
+- Fix various clearance and alignment issues (Thanks to @Jacky on Discord!)
+  - Y shaft holder: collision with XY joint at Y min
+  - AB drive mounts: belt path clearance
+  - X carriage: belt misalignment issue
+  - XY joints: slightly more clearance for belts
+- **CAD is not updated, use the STLs**
+
 ### 2026 / 09 / 01
 
 - AB drive mounts
